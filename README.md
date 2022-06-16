@@ -1,6 +1,6 @@
 # Bem vindo ao meu perfil!
 
-Olá, eu sou o João!
+Olá, eu sou o João! 🤙
 
 ![Foto - Perfil](https://user-images.githubusercontent.com/106479336/174189869-4d5a1128-6e0f-4908-9270-ddfcf26a153e.jpeg)
 
