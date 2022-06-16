@@ -1,6 +1,14 @@
-#Bem vindo ao meu perfil!
+# Bem vindo ao meu perfil!
 
 Olá, eu sou o João!
+
+![Foto - Perfil](https://user-images.githubusercontent.com/106479336/174189869-4d5a1128-6e0f-4908-9270-ddfcf26a153e.jpeg)
+
+🌐 Campo Grande - MS
+👨‍🦱 26 anos
+🏗️ Engenheiro Civil
+💻 Back-End
+
 
 ## Um pouco sobre mim
 
@@ -17,4 +25,4 @@ Agora pretendo deixar meus 50 centavos no mundo digital! Amo programar, e quero 
 ## Contatos
 
 - Linkedin: https://www.linkedin.com/in/jo%C3%A3o-vitor-p-ribeiro/
-- Instagram @eng.jvribeiro
+- E-mail: j_vribeiro@hotmail.com
